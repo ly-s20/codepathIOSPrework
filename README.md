@@ -19,10 +19,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/SKdLaMO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<video controls width="" title="Video Walkthrough">
-    <source src="https://imgur.com/a/SKdLaMO" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+**LINK TO GIF HERE SINCE IT IS NON-IMAGE CONTENT THAT CANNOT BE ACCESSED ABOVE**
+https://imgur.com/a/SKdLaMO
 
 
 <!-- Replace this with whatever GIF tool you used! -->
