@@ -19,6 +19,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/SKdLaMO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<video controls width="" title="Video Walkthrough">
+    <source src="https://imgur.com/a/SKdLaMO" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **Kap for macOS**
 <!-- Recommended tools:
